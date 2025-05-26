@@ -1,0 +1,37 @@
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.exe
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.deps.json
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.runtimeconfig.json
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.dll
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.pdb
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.AssemblyInfoInputs.cache
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.AssemblyInfo.cs
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.csproj.CoreCompileInputs.cache
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.sourcelink.json
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.dll
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\refint\AnalisarRiscosProjeto.dll
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.pdb
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.genruntimeconfig.cache
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\ref\AnalisarRiscosProjeto.dll
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\GenerativeAI.dll
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.csproj.AssemblyReference.cache
+C:\Users\47015003805\Desktop\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.csproj.CopyComplete
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\AnalisarRiscosProjeto.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\bin\Debug\net8.0\GenerativeAI.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.sourcelink.json
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\Analisar.1CD84361.Up2Date
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\refint\AnalisarRiscosProjeto.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\AnalisarRiscosProjeto.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Zenith\AnalisarRiscosProjeto\obj\Debug\net8.0\ref\AnalisarRiscosProjeto.dll
