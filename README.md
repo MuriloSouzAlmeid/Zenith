@@ -1,2 +1,2 @@
 # Zenith
-Repositório contento o código fonte da aplicaçãoo Zenith
+Repositório contento o código fonte da aplicação Zenith
